@@ -1,2 +1,2 @@
-# Shavaz-Jupyter-Nootbooks
+# Shavaz-Jupyter-Notebooks
 SimPEG inversion algorithms for shavaz iron deposit
